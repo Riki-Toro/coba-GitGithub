@@ -4,9 +4,11 @@ belajar jquery di codepolitan
 codeigniter di wpu
 node js
 vue js
+materialize cs
 
 upload ig
 
 kelas online :
-codepolitan
-dicoding
+codepolitan gratis
+kelaskoding gratis
+dicoding berbayar
