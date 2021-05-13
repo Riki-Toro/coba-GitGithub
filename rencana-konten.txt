@@ -3,5 +3,12 @@ fitur rencana konten
 belajar jquery di codepolitan
 laravel di wpu
 codeigniter di wpu
+materialize css
+bootstrap css
 
 upload ig
+
+kelas online :
+codepolitan gratis
+kelaskoding gratis
+dicoding berbayar
