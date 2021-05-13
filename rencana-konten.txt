@@ -1,10 +1,10 @@
 fitur rencana konten
 
 belajar jquery di codepolitan
-laravel di wpu
 codeigniter di wpu
-materialize css
-bootstrap css
+node js
+vue js
+materialize cs
 
 upload ig
 
