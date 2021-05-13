@@ -1,5 +1,7 @@
 fitur rencana konten
 
-belajar jquery
-laravel
-codeigniter
+belajar jquery di codepolitan
+laravel di wpu
+codeigniter di wpu
+
+upload ig
