@@ -1,6 +1,11 @@
 body {
     font-family: arial;
+    text-align: center;
 }
 h1 {
     text-shadow: 1px 1px 1px black;
+}
+
+.toogle {
+    display: none;
 }
