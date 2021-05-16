@@ -6,6 +6,10 @@ h1 {
     text-shadow: 1px 1px 1px black;
 }
 
-.toogle {
-    display: none;
+.bold {
+    font-weight: bold;
+}
+
+.reguler {
+    font-weight: normal;
 }
